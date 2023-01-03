@@ -1,3 +1,26 @@
+.nav-link {
+  font-family: "Lato-Regular";
+  font-size: 1.5rem;
+}
 
+.section1 {
+  position: relative;
+}
+
+.section1-info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.title {
+  font-family: "PlayfairDisplaySC-Regular";
+  font-size: 1.5em;
+}
+
+.paragraph {
+  font-family: "PlayfairDisplaySC-Regular";
+  font-size: 1.2em;
+}
 
 /*# sourceMappingURL=style.css.map */
